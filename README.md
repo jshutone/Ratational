@@ -21,7 +21,7 @@ The opertations Rational is able to perform are:
  One limitation of Rational is that the program is only able to take in 2 fractions at a time.
  
  ## How To Run Rational
-  1. Clone this repo by pasting `git clone https://github.com/Joshua-Sutton/Ratational.git` into termail
+  1. Clone this repo by pasting `git clone https://github.com/Joshua-Sutton/Ratational.git` into terminal
   2. Run `main.cpp` 
   3. Input first fraction, then operation, and second fraction
   4. Click enter
